@@ -1,0 +1,17 @@
+
+.success-toast {
+  background-color: #5D3A00;
+  /* background-color: #6B8E23;  */
+  color: #F2E9DC;       
+  font-family: 'Lora', 'Playfair Display', serif;
+  border-radius: 8px;
+}
+
+
+.error-toast {
+  background-color: #5D3A00 ;
+  /* background-color: #8B0000;   */
+  color: #F2E9DC;       
+  font-family: 'Lora', 'Playfair Display', serif;
+  border-radius: 8px;
+}
