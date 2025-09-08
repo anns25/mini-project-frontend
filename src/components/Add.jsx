@@ -204,7 +204,7 @@ const Add = ({ onAddBook, handleDrawer }) => {
                         onChange={(e) => handleFieldChange('rating', e.target.value)}
                     />
                     <Box sx={{ mt: 2, mb: 2 }}>
-                        <Typography variant="body">
+                        <Typography variant="body2">
                             Image
                         </Typography>
                         {imageFile ? (
